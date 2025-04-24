@@ -1,0 +1,38 @@
+__  __  __
+\ \ \ \ \/
+ \ \/\ \
+  \/  \/
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site arpitshekhar.com.
+
+_______________________________________________________________________________
+
+DESIGNER | デザイナー
+
+Arpit Shekhar
+Hand crafted design & web development
+
+Design tools:
+Figma
+Photoshop
+
+twitter.com/shekhararpitji
+github.com/shekhararpitji
+
+_______________________________________________________________________________
+
+TECHNOLOGY | テクノロジー
+
+React
+Node js
+Three.js
+Framer Motion
+
+_______________________________________________________________________________
+
+FONTS | フォント
+
+Gotham
+IPA Gothic Regular
+Hiragino Kaku Gothic W8
